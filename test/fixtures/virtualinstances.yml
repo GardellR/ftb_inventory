@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  inventoryitem_id: 
+  ftbsystemtype_id: 
+  virt_hostname: MyString
+  virt_os_name: MyString
+  virt_os_version: MyString
+  virt_ip_address: MyString
+
+two:
+  inventoryitem_id: 
+  ftbsystemtype_id: 
+  virt_hostname: MyString
+  virt_os_name: MyString
+  virt_os_version: MyString
+  virt_ip_address: MyString

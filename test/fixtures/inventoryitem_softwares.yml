@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  software_id: 
+  inventoryitem_id: 
+  instalation_date: 2014-11-24
+  license_number: MyString
+  license_name: MyString
+  license_type: MyString
+  license_creation_date: 2014-11-24
+  license_expiration_date: 2014-11-24
+
+two:
+  software_id: 
+  inventoryitem_id: 
+  instalation_date: 2014-11-24
+  license_number: MyString
+  license_name: MyString
+  license_type: MyString
+  license_creation_date: 2014-11-24
+  license_expiration_date: 2014-11-24
